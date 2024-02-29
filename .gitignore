@@ -1,0 +1,31 @@
+# Avoid accidental upload of the Sketch and Figma design files
+#####################################################
+## Please do not remove lines 5 and 6 - thanks! 🙂 ##
+#####################################################
+*.sketch
+*.fig
+
+# Avoid accidental XD upload if you convert the design file
+###############################################
+## Please do not remove line 12 - thanks! 🙂 ##
+###############################################
+*.xd
+
+# Avoid your project being littered with annoying .DS_Store files!
+.DS_Store
+.prettierignore
+
+
+README-template.md
+README.md
+style-guide.md
+assets/fonts/Figtree-Italic-VariableFont_wght.ttf
+assets/fonts/Figtree-VariableFont_wght.ttf
+assets/fonts/OFL.txt
+assets/fonts/README.txt
+assets/fonts/static/Figtree-ExtraBold.ttf
+assets/fonts/static/Figtree-SemiBold.ttf
+design/active-states.jpg
+design/desktop-design.jpg
+design/desktop-preview.jpg
+design/mobile-design.jpg
